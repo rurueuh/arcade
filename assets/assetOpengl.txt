@@ -1,0 +1,14 @@
+B assets/box.obj
+1 assets/box.obj
+2 assets/box.obj
+3 assets/box.obj
+4 assets/box.obj
+5 assets/box.obj
+| assets/box.obj
+P assets/box.obj
+L assets/box.obj
+R assets/box.obj
+T assets/box.obj
+N assets/box.obj
+o assets/box.obj
+X assets/box.obj
